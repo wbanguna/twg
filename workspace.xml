@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="296487dd-1953-4d35-83f3-daa01571c132" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../.." />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aISjTb8Y3WvlV0JfSud6ehhIRR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.ExampleHello in testwithgo/example">
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="testwithgo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/math/test/test.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExampleHello in testwithgo/example" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="testwithgo" />
+      <working_directory value="$PROJECT_DIR$/example" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="testwithgo/example" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^ExampleHello$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSum in testwithgo/math" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="testwithgo" />
+      <working_directory value="$PROJECT_DIR$/math" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="testwithgo/math" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSum$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTimeExecutable in testwithgo/math/sleep" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="testwithgo" />
+      <working_directory value="$PROJECT_DIR$/math/sleep" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="testwithgo/math/sleep" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestTimeExecutable$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTmeoExecutable in testwithgo/math/sleep" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="testwithgo" />
+      <working_directory value="$PROJECT_DIR$/math/sleep" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="testwithgo/math/sleep" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestTmeoExecutable$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.ExampleHello in testwithgo/example" />
+        <item itemvalue="Go Test.TestTimeExecutable in testwithgo/math/sleep" />
+        <item itemvalue="Go Test.TestTmeoExecutable in testwithgo/math/sleep" />
+        <item itemvalue="Go Test.TestSum in testwithgo/math" />
+        <item itemvalue="Go Build.go build test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="296487dd-1953-4d35-83f3-daa01571c132" name="Default Changelist" comment="" />
+      <created>1586421749453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586421749453</updated>
+      <workItem from="1586421753016" duration="4581000" />
+      <workItem from="1586938138620" duration="130000" />
+      <workItem from="1587117509830" duration="289000" />
+      <workItem from="1588062720064" duration="5306000" />
+      <workItem from="1589299378094" duration="1885000" />
+      <workItem from="1589364655318" duration="5183000" />
+      <workItem from="1589883948779" duration="704000" />
+      <workItem from="1593775970316" duration="1493000" />
+      <workItem from="1594021383589" duration="5357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="959" height="288" key="GridCell.Tab.0.bottom" timestamp="1588070496869">
+      <screen x="1440" y="-328" width="1920" height="1057" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-351.1920.1080@0.0.1440.900" timestamp="1586867899565" />
+    <state width="959" height="288" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-328.1920.1057@1440.-328.1920.1057" timestamp="1588070496869" />
+    <state width="959" height="288" key="GridCell.Tab.0.center" timestamp="1588070496868">
+      <screen x="1440" y="-328" width="1920" height="1057" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.-351.1920.1080@0.0.1440.900" timestamp="1586867899564" />
+    <state width="959" height="288" key="GridCell.Tab.0.center/0.23.1440.877/1440.-328.1920.1057@1440.-328.1920.1057" timestamp="1588070496868" />
+    <state width="959" height="288" key="GridCell.Tab.0.left" timestamp="1588070496868">
+      <screen x="1440" y="-328" width="1920" height="1057" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.-351.1920.1080@0.0.1440.900" timestamp="1586867899563" />
+    <state width="959" height="288" key="GridCell.Tab.0.left/0.23.1440.877/1440.-328.1920.1057@1440.-328.1920.1057" timestamp="1588070496868" />
+    <state width="959" height="288" key="GridCell.Tab.0.right" timestamp="1588070496869">
+      <screen x="1440" y="-328" width="1920" height="1057" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.-351.1920.1080@0.0.1440.900" timestamp="1586867899565" />
+    <state width="959" height="288" key="GridCell.Tab.0.right/0.23.1440.877/1440.-328.1920.1057@1440.-328.1920.1057" timestamp="1588070496869" />
+    <state x="351" y="168" key="SettingsEditor" timestamp="1589300001006">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="352" y="149" key="SettingsEditor/0.0.1440.900/1440.-351.1920.1080@0.0.1440.900" timestamp="1586854208147" />
+    <state x="1909" y="-172" key="SettingsEditor/0.0.1440.900/1440.-351.1920.1080@1440.-351.1920.1080" timestamp="1586422012648" />
+    <state x="1909" y="-153" key="SettingsEditor/0.23.1440.877/1440.-328.1920.1057@1440.-328.1920.1057" timestamp="1588072114043" />
+    <state x="351" y="168" key="SettingsEditor/0.23.1440.877/945.-1057.1920.1057/-975.-1057.1920.1057@0.23.1440.877" timestamp="1589300001006" />
+    <state x="410" y="193" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1588107740371" />
+    <state x="490" y="325" key="com.intellij.ide.util.TipDialog" timestamp="1586951435804">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="490" y="325" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.-351.1920.1080@0.0.1440.900" timestamp="1586951435804" />
+    <state x="2093" y="21" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.-351.1920.1080@1440.-351.1920.1080" timestamp="1586421754142" />
+    <state x="349" y="81" key="new project wizard" timestamp="1589890031580">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="349" y="60" key="new project wizard/0.0.1440.900/945.-1080.1920.1080/-975.-1080.1920.1080@0.0.1440.900" timestamp="1589452011537" />
+    <state x="349" y="81" key="new project wizard/0.23.1440.877/945.-1057.1920.1057/-975.-1057.1920.1057@0.23.1440.877" timestamp="1589890031580" />
+  </component>
+</project>
